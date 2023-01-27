@@ -1,1 +1,0 @@
-moduleSearchIndex = [{"l":"Java_Test_0"}];updateSearchResults();
