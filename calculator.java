@@ -1,3 +1,9 @@
+/**
+ * @author Hadrian Hu
+ * @version 1.0
+ * @since 2023-27-01
+ */
+
 public class calculator {
     class Number {
         public int value;
